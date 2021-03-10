@@ -4,18 +4,23 @@
         font-family: Roboto Mono;
     }
     header {
-        display: inline-block;
         margin: 3%;
+        text-align: center;
+    }
+    nav.navigation {
+        width: 100%;
     }
     .navigation {
-        display: inline-block;
         color: white;
+        max-width: 100%;
     }
     .navigation a {
         text-decoration: none;
         color: white;
         padding: .8rem;
         border-radius: 15px;
+        margin: 5%;
+        width: 100%;
     }
     .nav1 {
         background-color: #ff764e;
@@ -30,6 +35,9 @@
         font-family: Chelsea Market;
         font-size: 2rem;
     }
+    section {
+        margin: 0 10%;
+    }
     .middle {
         color: white;
         background-color: #ddb9a3;
@@ -37,6 +45,15 @@
         margin: 0 3%;
         width: 60%;
     }
+    .lower {
+        margin: 0 15%;
+        width: 30%;
+        text-align: center;
+    }
     span {
         font-weight: bold;
+    }
+    footer {
+        background-color: #f9e7dc;
+        padding: 7%;
     }
