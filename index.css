@@ -41,3 +41,17 @@ blockquote:before, blockquote:after, q:before, q:after {
 blockquote, q {
 	quotes: "" "";
 	}
+    /* Full html */
+    .navigation {
+        display: inline-block;
+        color: white;
+    }
+    .nav1 {
+        background-color: #ff764e;
+    }
+    .nav2 {
+        background-color: #5ed3eb;
+    }
+    .nav3 {
+        background-color: #ffcd69;
+    }
