@@ -3,9 +3,19 @@
     html{
         font-family: Roboto Mono;
     }
+    header {
+        display: inline-block;
+        margin: 3%;
+    }
     .navigation {
         display: inline-block;
         color: white;
+    }
+    .navigation a {
+        text-decoration: none;
+        color: white;
+        padding: .8rem;
+        border-radius: 15px;
     }
     .nav1 {
         background-color: #ff764e;
@@ -23,6 +33,9 @@
     .middle {
         color: white;
         background-color: #ddb9a3;
+        padding: 1%;
+        margin: 0 3%;
+        width: 60%;
     }
     span {
         text-decoration: heavy;
