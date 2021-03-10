@@ -42,6 +42,9 @@ blockquote, q {
 	quotes: "" "";
 	}
     /* Full html */
+    html{
+        font-family: Roboto Mono;
+    }
     .navigation {
         display: inline-block;
         color: white;
@@ -54,4 +57,8 @@ blockquote, q {
     }
     .nav3 {
         background-color: #ffcd69;
+    }
+    h1 {
+        font-family: Chelsea Market;
+        font-size: 2rem;
     }
