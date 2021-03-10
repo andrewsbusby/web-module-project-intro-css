@@ -2,6 +2,7 @@
     /* Full html */
     body{
         font-family: Roboto Mono;
+        margin: auto;
     }
     header {
         margin: 3%;
@@ -19,7 +20,7 @@
         color: white;
         padding: .8rem;
         border-radius: 15px;
-        margin: 5%;
+        margin:6%;
         width: 100%;
     }
     .nav1 {
@@ -42,11 +43,11 @@
         color: white;
         background-color: #ddb9a3;
         padding: 1%;
-        margin: 0 3%;
+        margin:auto;
         width: 60%;
     }
     .lower {
-        margin: 0 15%;
+        margin:auto;
         width: 30%;
         text-align: center;
     }
@@ -56,4 +57,5 @@
     footer {
         background-color: #f9e7dc;
         padding: 7%;
+        margin: auto;
     }
