@@ -1,6 +1,6 @@
 
     /* Full html */
-    html{
+    body{
         font-family: Roboto Mono;
     }
     header {
@@ -38,5 +38,5 @@
         width: 60%;
     }
     span {
-        text-decoration: heavy;
+        font-weight: bold;
     }
