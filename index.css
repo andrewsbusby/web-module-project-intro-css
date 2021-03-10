@@ -20,3 +20,10 @@
         font-family: Chelsea Market;
         font-size: 2rem;
     }
+    .middle {
+        color: white;
+        background-color: #ddb9a3;
+    }
+    span {
+        text-decoration: heavy;
+    }
