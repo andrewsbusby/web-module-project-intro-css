@@ -71,3 +71,11 @@
         padding: 7%;
         margin: auto;
     }
+    .footer-img{
+        width: 75%;
+        height: 30%;
+        margin: 5%;
+    }
+    img {
+        object-fit: fill;
+    }
